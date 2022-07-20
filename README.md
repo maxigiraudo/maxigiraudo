@@ -35,4 +35,8 @@
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="60" height="60"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
+  
+  
+  <h4> I invite you to see my repositories, where you will find my latest works. </h4>
+  <h5>The most recent are: A SPA (Single Page Application), and an E-Commerce to be able to buy, sell and create NFT, in which I was part of a work team where we worked with SCRUM and Git Flow </h5>
 	
