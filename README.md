@@ -11,15 +11,13 @@
 
 <h3 align="center">A passionate Web developer from Argentina</h3>
 
-<h4> I am a web developer and I love working in Front End but I have knowledge in Full Stack </h4>
+<h4> I am a web developer and I love working in Front End but I have knowledge as a Full Stack Developer </h4>
 
 
 - ⚡ I finished the intensive Full Stack Developer bootcamp at Henry   
 - ❤️ I love **Web Development**
 - 📫 Contact me **maximilianoezequielgiraudo@gmail.com**
 
-
-<h4>Main Programming Languages/Libraries: </h4>
 
 
 <h4>Skills and Tools: </h4>
@@ -39,6 +37,8 @@
   
   <h4> I invite you to see my repositories, where you will find my latest works. </h4>
   <h5>The most recent are: </h5>
-- ⚡ A SPA (Single Page Application)
-- ⚡ An E-Commerce to be able to buy, sell and create NFT, in which I was part of a work team where we worked with SCRUM and Git Flow 
+
+-⚡ A SPA (Single Page Application).
+ <br />
+-⚡ An E-Commerce to be able to buy, sell and create NFT, in which I was part of a work team where we worked with SCRUM and Git Flow. 
 	
