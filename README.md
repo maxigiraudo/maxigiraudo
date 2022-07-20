@@ -39,6 +39,6 @@
   
   <h4> I invite you to see my repositories, where you will find my latest works. </h4>
   <h5>The most recent are: </h5>
-  - A SPA (Single Page Application)
-  - An E-Commerce to be able to buy, sell and create NFT, in which I was part of a work team where we worked with SCRUM and Git Flow 
+- ⚡ A SPA (Single Page Application)
+- ⚡ An E-Commerce to be able to buy, sell and create NFT, in which I was part of a work team where we worked with SCRUM and Git Flow 
 	
