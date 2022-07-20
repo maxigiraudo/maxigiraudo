@@ -14,8 +14,7 @@
 <h4> I am a web developer and I love working in Front End but I have knowledge in Full Stack </h4>
 
 
-- ⚡ I finished the intensive Full Stack Developer bootcamp at Henry  
-- 🌱 I’m currently learning ... **JavaScript and React** 
+- ⚡ I finished the intensive Full Stack Developer bootcamp at Henry   
 - ❤️ I love **Web Development**
 - 📫 Contact me **maximilianoezequielgiraudo@gmail.com**
 
