@@ -23,21 +23,17 @@
 
 <h4>Main Programming Languages/Libraries: </h4>
 
-<p align="left">
-  <img style="margin: auto;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt=nodejs width="100"/>
-</p>
-
-
 
 <h4>Skills and Tools: </h4>
 <p align="left">
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
-<img style="margin: auto;" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt=webpack width="60" height="60"/>
+	<img style="margin: auto;" src="https://www.openidealapp.com/wp-content/uploads/2018/02/express.png" alt=javascript width="60" height="60"/>
+<img style="margin: auto;" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt=javascript width="60" height="60"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="60" height="60"/>
-<img style="margin: auto;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt=nodejs width="100"/>
+
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="60" height="60"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
